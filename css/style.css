@@ -1,0 +1,101 @@
+.btn-1{
+    background: hsla(263, 42%, 65%, 1);
+
+background: linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%);
+}
+
+.btn-2{
+    background: hsla(211, 96%, 62%, 1);
+
+background: linear-gradient(90deg, hsla(211, 96%, 62%, 1) 0%, hsla(295, 94%, 76%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(211, 96%, 62%, 1) 0%, hsla(295, 94%, 76%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(211, 96%, 62%, 1) 0%, hsla(295, 94%, 76%, 1) 100%);
+}
+
+.btn-3{
+    background: hsla(266, 75%, 55%, 1);
+
+background: linear-gradient(90deg, hsla(266, 75%, 55%, 1) 0%, hsla(340, 47%, 77%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(266, 75%, 55%, 1) 0%, hsla(340, 47%, 77%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(266, 75%, 55%, 1) 0%, hsla(340, 47%, 77%, 1) 100%);
+}
+
+.btn-4{
+    background: hsla(270, 91%, 83%, 1);
+
+background: linear-gradient(90deg, hsla(270, 91%, 83%, 1) 0%, hsla(290, 56%, 56%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(270, 91%, 83%, 1) 0%, hsla(290, 56%, 56%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(270, 91%, 83%, 1) 0%, hsla(290, 56%, 56%, 1) 100%);
+}
+
+.btn-5{
+    background: hsla(238, 100%, 71%, 1);
+
+background: linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+}
+
+.btn-6{
+    background: hsla(17, 95%, 50%, 1);
+
+background: linear-gradient(90deg, hsla(17, 95%, 50%, 1) 0%, hsla(42, 94%, 57%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(17, 95%, 50%, 1) 0%, hsla(42, 94%, 57%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(17, 95%, 50%, 1) 0%, hsla(42, 94%, 57%, 1) 100%);
+}
+
+.btn-7{
+    background: hsla(89, 60%, 87%, 1);
+
+background: linear-gradient(90deg, hsla(89, 60%, 87%, 1) 0%, hsla(34, 86%, 58%, 1) 50%, hsla(335, 81%, 65%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(89, 60%, 87%, 1) 0%, hsla(34, 86%, 58%, 1) 50%, hsla(335, 81%, 65%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(89, 60%, 87%, 1) 0%, hsla(34, 86%, 58%, 1) 50%, hsla(335, 81%, 65%, 1) 100%);
+
+}
+
+.btn-8{
+    background: hsla(17, 95%, 50%, 1);
+
+background: linear-gradient(90deg, hsla(17, 95%, 50%, 1) 0%, hsla(42, 94%, 57%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(17, 95%, 50%, 1) 0%, hsla(42, 94%, 57%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(17, 95%, 50%, 1) 0%, hsla(42, 94%, 57%, 1) 100%);
+
+}
+
+.btn-9{
+    background: hsla(29, 92%, 70%, 1);
+
+background: linear-gradient(90deg, hsla(29, 92%, 70%, 1) 0%, hsla(0, 87%, 73%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(29, 92%, 70%, 1) 0%, hsla(0, 87%, 73%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(29, 92%, 70%, 1) 0%, hsla(0, 87%, 73%, 1) 100%);
+}
+
+.btn-10{
+    background: hsla(348, 88%, 66%, 1);
+
+background: linear-gradient(90deg, hsla(348, 88%, 66%, 1) 0%, hsla(36, 89%, 68%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(348, 88%, 66%, 1) 0%, hsla(36, 89%, 68%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(348, 88%, 66%, 1) 0%, hsla(36, 89%, 68%, 1) 100%);
+}
